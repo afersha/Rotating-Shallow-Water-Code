@@ -1,1 +1,2 @@
-# Rotating-Shallow-Water-Code
+# Rotating Shallow Water Code
+
